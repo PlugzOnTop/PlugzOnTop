@@ -8,8 +8,6 @@
 
 
 
-https://icons.iconarchive.com/icons/harwen/pleasant/256/MS-DOS-Batch-File-icon.png
-
 ### Languages:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" style="padding-right:10px;" />
